@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6F3C</color>
+    <color name="background">#F5F6FA</color>
+    <color name="primary">#1F3A93</color>
+    <color name="primary_dark">#152A6B</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <string name="app_name">Expense Tracker</string>
+    <string name="gcm_defaultSenderId" translatable="false">619705748314</string>
+    <string name="google_api_key" translatable="false">AIzaSyDClPIhMyIXYNn1baixLNhKh5WxGB-B6XQ</string>
+    <string name="google_app_id" translatable="false">1:619705748314:android:59435ef1515f5ec9580163</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDClPIhMyIXYNn1baixLNhKh5WxGB-B6XQ</string>
+    <string name="google_storage_bucket" translatable="false">expense-tracker-77bf8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">expense-tracker-77bf8</string>
+    <style name="Theme.ExpenseTracker" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

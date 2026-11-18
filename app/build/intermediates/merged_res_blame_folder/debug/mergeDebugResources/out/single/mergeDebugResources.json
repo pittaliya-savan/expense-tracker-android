@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_activity_summary.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\layout_activity_add_expense.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "com.savan.expensetracker.app-debug-50:/layout_activity_login.xml.flat",
+        "source": "com.savan.expensetracker.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-debug-50:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\drawable\\ic_back.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\activity_add_expense.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\activity_summary.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-mergeDebugResources-49:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\SAVAN\\.gradle\\daemon\\8.13\\com.savan.expensetracker.app-main-52:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "com.savan.expensetracker.app-mergeDebugResources-49:/layout/activity_login.xml",
+        "source": "com.savan.expensetracker.app-main-52:/layout/activity_login.xml"
+    }
+]
